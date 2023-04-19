@@ -5,3 +5,5 @@
 </div>
 <!-- c<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3> -->
 
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=askwlc)](https://github.com/KnlnKS/leetcode-stats)
