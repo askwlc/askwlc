@@ -6,4 +6,4 @@
 <!-- c<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3> -->
 <h3 align="left">LeetCode:</h3>
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=askwlc&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+<!--[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=askwlc&theme=dark)](https://github.com/KnlnKS/leetcode-stats)-->
