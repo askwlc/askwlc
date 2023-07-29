@@ -66,7 +66,9 @@ My name is Nikita. I'm a Python backend developer with an engineering background
 	<a href="mailto:shinkovn@yandex.ru">
 		<img src="https://cdn-icons-png.flaticon.com/512/6124/6124986.png" alt="YandexMail" width="40" height="40"/>
 	</a>
-  [<img src='https://user-images.githubusercontent.com/112638163/233420825-80395188-f26e-4712-8b09-31ef644e4fdb.png' alt='hh' height='40'>](https://headhunter.ge/resume/f2099a81ff03c0e75f0039ed1f394352517734?from=share_ios)
+  <a href="https://headhunter.ge/resume/f2099a81ff03c0e75f0039ed1f394352517734?from=share_ios"> 
+	  <img src='https://user-images.githubusercontent.com/112638163/233420825-80395188-f26e-4712-8b09-31ef644e4fdb.png' alt='hh' height='40'/>
+	</a>  
 </div>
 
 <!--- [CaseMe](https://github.com/VadimVolkovsky/case_me) блог для специалистов из сферы разработки с возможностью представить свое портфолио.
