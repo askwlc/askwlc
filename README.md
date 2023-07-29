@@ -28,8 +28,6 @@ My name is Nikita. I'm a Python backend developer with an engineering background
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/> 
   </a>
-</div>
-<div>
   <a href="https://cloud.yandex.ru/" target="_blank" rel="noreferrer">
     <img src="https://storage.yandexcloud.net/cloud-www-assets/region-assets/ru/favicon/favicon-120x120.png" alt="yandex.cloud" width="30" height="30"/>
   </a>
