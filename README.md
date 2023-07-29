@@ -51,6 +51,24 @@ My name is Nikita. I'm a Python backend developer with an engineering background
   </a>
 </div>
 
+### You can get in touch with me
+
+<div id="socials">
+	<a href="https://www.linkedin.com/in/nickshinkov/">
+    		<img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn" width="40" height="40"/>
+	</a>
+	<a href="https://t.me/nickshinkov">
+		<img src="https://cdn-icons-png.flaticon.com/512/2504/2504941.png" alt="Telegram" width="40" height="40"/>
+	</a>
+  	<a href="https://www.instagram.com/askwlc/">
+		<img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40" height="40"/>
+	</a>
+	<a href="mailto:shinkovn@yandex.ru">
+		<img src="https://cdn-icons-png.flaticon.com/512/6124/6124986.png" alt="YandexMail" width="40" height="40"/>
+	</a>
+  [<img src='https://user-images.githubusercontent.com/112638163/233420825-80395188-f26e-4712-8b09-31ef644e4fdb.png' alt='hh' height='40'>](https://headhunter.ge/resume/f2099a81ff03c0e75f0039ed1f394352517734?from=share_ios)
+</div>
+
 <!--- [CaseMe](https://github.com/VadimVolkovsky/case_me) блог для специалистов из сферы разработки с возможностью представить свое портфолио.
 - [YaTube](https://github.com/askwlc/hw05_final) - блог для писателей с множеством функций, таких как комментарии, лайки, подписки и прочее.
 - [YamDBAPI](https://github.com/askwlc/infra_sp2) - API для сбора информации о музыке, фильмах и других произведениях.
