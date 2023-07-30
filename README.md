@@ -8,7 +8,7 @@ My name is Nikita. I'm a Python backend developer with an engineering background
 
 - 🌱 Currently, I'm focusing on learning more about the <a href="https://github.com/askwlc/FastAPI-investment">**FastAPI to develop REST APIs and microservices**</a>
 
-### Languages and Tools 💻
+### Languages and Tools
 <div>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
