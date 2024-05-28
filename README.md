@@ -54,7 +54,7 @@ My name is Nikita. I'm a Python backend developer with an engineering background
   </a>
 </div>
 
-### You can get in touch with me
+<!-- ### You can get in touch with me
 
 <div id="socials">
 	<a href="https://www.linkedin.com/in/nickshinkov/">
@@ -72,7 +72,7 @@ My name is Nikita. I'm a Python backend developer with an engineering background
   <a href="https://headhunter.ge/resume/f2099a81ff03c0e75f0039ed1f394352517734?from=share_ios"> 
 	  <img src='https://user-images.githubusercontent.com/112638163/233420825-80395188-f26e-4712-8b09-31ef644e4fdb.png' alt='hh' height='40'/>
 	</a>  
-</div>
+</div> -->
 
 <!--- [CaseMe](https://github.com/VadimVolkovsky/case_me) блог для специалистов из сферы разработки с возможностью представить свое портфолио.
 - [YaTube](https://github.com/askwlc/hw05_final) - блог для писателей с множеством функций, таких как комментарии, лайки, подписки и прочее.
