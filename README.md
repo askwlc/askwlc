@@ -4,9 +4,9 @@
 
 My name is Nikita. I'm a Python backend developer with an engineering background and experience with Django, DRF, FastAPI.
 
-### About me
+<!-- ### About me
 
-- 🌱 Currently, I'm focusing on learning more about the <a href="https://github.com/askwlc/FastAPI-investment">**FastAPI to develop REST APIs and microservices**</a>
+- 🌱 Currently, I'm focusing on learning more about the <a href="https://github.com/askwlc/FastAPI-investment">**FastAPI to develop REST APIs and microservices**</a> -->
 
 ### Languages and Tools
 <div>
